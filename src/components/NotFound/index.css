@@ -1,0 +1,17 @@
+.not-found {
+  height: 300px;
+  width: 300px;
+}
+
+.not-found-heading {
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 900;
+  padding-top: 20px;
+}
+
+.not-found-paragraph {
+  font-family: 'Roboto';
+  font-size: 16px;
+  padding-top: 20px;
+}

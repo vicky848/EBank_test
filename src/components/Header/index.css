@@ -1,0 +1,23 @@
+.logo {
+  height: 50px;
+  width: 100px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.logout-button {
+  margin-right: 100px;
+  height: 32px;
+  width: 132px;
+  margin-top: 30px;
+  background-color: transparent;
+  color: #ffffff;
+  border: solid 1px #ffffff;
+  cursor: pointer;
+}
+.nav-item {
+  height: 70px;
+  background-color: #999ca3;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+}
